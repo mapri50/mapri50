@@ -2,4 +2,3 @@
 - 👀 I’m interested in Machine Learning and Web Development
 - 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on machine learning applications
-- 📫 You can reach me on discord mapri#7091
